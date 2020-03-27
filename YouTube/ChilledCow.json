@@ -1,4 +1,8 @@
- "channels": [
+{
+ "uuid":"64350b50-a810-4901-b86b-7a5106bdef2c",
+ "title": "Hell Cell",
+ "type": "tv",
+"channels": [
   {
    "name":"lofi hip hop radio - beats to relax/study to",
                  "logo":"https://i.ytimg.com/vi/5qap5aO4i9A/mqdefault.jpg",
